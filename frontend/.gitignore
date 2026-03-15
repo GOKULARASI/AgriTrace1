@@ -1,7 +1,6 @@
 node_modules
+smart_contracts/node_modules
 .env
-build
 dist
-.next
-.cache
-.vite
+build
+.caches
